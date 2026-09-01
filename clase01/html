@@ -1,0 +1,22 @@
+<!--Esta linea significa que es un documento HTML 5-->
+<!DOCTYPE html> 
+
+<!--empieza el documento HTML-->
+<!--Esta linea significa que el idioma del documento es epañol-->
+<html lang="es">
+<head>
+  <!--Esta line significa que el documento tiene codificacion UTF-8-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>document</title>
+</head>
+ 
+<body>
+ <h1>Explicacion de HTML</h1>
+ <a href=https://www.youtube.com>ir a youtube</a>
+ <br><hr>
+ <!--comentario-->
+ <h3>subtitulo</h3>
+<img src="carro.jpg" alt="">
+</body>
+</html>
